@@ -20,9 +20,9 @@ The goal of the Time Tunnel is to immerse visitors in the most significant momen
 
 ## Requirements
 * **Software:**
-  * Hi
+  * TBD
 * **3D World Building:**
-* HI
+  * TBD
 * **Cinematics and Filming:**
 
 ## Setup
